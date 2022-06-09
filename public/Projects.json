@@ -1,0 +1,69 @@
+[
+    {
+        "id": 21,
+        "name": "Auto Parts",
+        "type": "Manufacturing Company Website",
+        "image": "https://i.ibb.co/F0vQV1S/Auto-Parts-0.png",
+        "description": "This is a full-stack responsive react project where dealers can buy tools in bulk. Users can go to the dashboard and pay for or cancel their orders. Only admins see all orders and their payment status in the dashboard. They can also ship paid orders. Admins can make normal users admin and add or delete products.",
+        "links": [
+            {
+                "id": 31,
+                "title": "Live Site",
+                "url": "https://auto-parts01.web.app/"
+            },
+            {
+                "id": 32,
+                "title": "Client Side Code",
+                "url": "https://github.com/NhShanto01/Manufacturer-Website-client"
+            },
+            {
+                "id": 33,
+                "title": "Server Side Code",
+                "url": "https://github.com/NhShanto01/Manufacturer-Website-Server"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Sports Zone",
+        "type": "Inventory Manager Website",
+        "image": "https://i.ibb.co/9cSKb2s/Sports-zone-0.png",
+        "description": "This is another full stack responsive web application to manage store inventory. Where users can update the stock of a product by restocking or delivering products. The user can add or delete products from the list. Users can report bugs from the bug report section on the home page.",
+        "links": [
+            {
+                "id": 41,
+                "title": "Live Site",
+                "url": "https://sports-zone-8991a.web.app/"
+            },
+            {
+                "id": 42,
+                "title": "Client Side Code",
+                "url": "https://github.com/NhShanto01/Warehouse-Management-Client"
+            },
+            {
+                "id": 43,
+                "title": "Server Side Code",
+                "url": "https://github.com/NhShanto01/Warehouse-Management-Server"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Edu-Philip",
+        "type": "Independent Service Provider Website",
+        "image": "https://i.ibb.co/q9XS00H/Edu-Philips-0.png",
+        "description": "This is a simple react website with routing and firebase authentication. Users can log in using email-password or google pop-up. Users cannot access the checkout page without logging in.",
+        "links": [
+            {
+                "id": 51,
+                "title": "Live Site",
+                "url": "https://edu-phillip.web.app/"
+            },
+            {
+                "id": 52,
+                "title": "Client Side Code",
+                "url": "https://github.com/NhShanto01/Independent-Service-Provider"
+            }
+        ]
+    }
+]
