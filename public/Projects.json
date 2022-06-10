@@ -1,6 +1,6 @@
 [
     {
-        "id": 21,
+        "id": 1,
         "name": "Auto Parts",
         "type": "Manufacturing Company Website",
         "image": "https://i.ibb.co/F0vQV1S/Auto-Parts-0.png",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "id": 22,
+        "id": 2,
         "name": "Sports Zone",
         "type": "Inventory Manager Website",
         "image": "https://i.ibb.co/9cSKb2s/Sports-zone-0.png",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": 3,
         "name": "Edu-Philip",
         "type": "Independent Service Provider Website",
         "image": "https://i.ibb.co/q9XS00H/Edu-Philips-0.png",

@@ -1,6 +1,8 @@
 import React from 'react';
 import './Intro.css'
 import me from '../../img/shanto-1_-removebg-preview.png'
+import { FiDownload } from "react-icons/fi";
+
 
 const Intro = () => {
     return (
@@ -17,7 +19,7 @@ const Intro = () => {
                             <div className="i-title-item">Learner</div>
                         </div>
                     </div>
-                    <a href="https://drive.google.com/file/d/1eODeVHDAF5YWUZ49WRqyObmngEwu0Ycu/view?usp=sharing" rel="noreferrer" target="_blank" className="btn btn-success">Download Resume</a>
+                    <a href="https://drive.google.com/file/d/1eODeVHDAF5YWUZ49WRqyObmngEwu0Ycu/view?usp=sharing" rel="noreferrer" target="_blank" className="btn btn-success d-btn">Download Resume <FiDownload /></a>
                 </div>
             </div>
             <div className="i-right">

@@ -51,6 +51,10 @@
     text-align: justify;
 }
 
+.d-btn {
+    width: 300px;
+}
+
 @keyframes move {
     25% {
         transform: translateY(-50px);
